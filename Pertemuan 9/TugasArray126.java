@@ -35,4 +35,4 @@ public class TugasArray126 {
         System.out.println("Nilai tertinggi = " + nilaiTertinggi);
         System.out.println("Nilai terendah = " + nilaiTerendah);
     }
-}
+} 
