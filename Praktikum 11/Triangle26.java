@@ -14,6 +14,7 @@ public class Triangle26 {
                 j++;
             }
             i++;
+            System.out.println();
         }
     }
 }
